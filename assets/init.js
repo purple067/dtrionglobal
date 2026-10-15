@@ -1,0 +1,1 @@
+(function(){try{var t=localStorage.getItem('dg_theme');if(t==='light')document.documentElement.setAttribute('data-theme','light');if(localStorage.getItem('dg_lang')==='ne')document.documentElement.lang='ne'}catch(e){}})();
